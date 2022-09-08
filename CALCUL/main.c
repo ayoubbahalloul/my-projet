@@ -3,6 +3,7 @@
 
 int main()
 {
+    \\multiplication
     int n ,i,s;
 
     printf("saisir un nombre :");

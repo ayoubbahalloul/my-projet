@@ -3,7 +3,7 @@
 
 int main()
 {
-
+\\produit deux nbr
     int n1 ,n2, s;
     printf("veuillez entrer un nombre\n");
     scanf("%d",&n1);
